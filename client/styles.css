@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.close-btn {
+    max-width: 1.5em;
+    cursor: pointer;
+}
+
+.edit-btn {
+    max-width: 1.5em;
+    cursor: pointer;
+}
